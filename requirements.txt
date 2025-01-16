@@ -1,0 +1,18 @@
+datasets
+evaluate
+arabert
+shap
+wandb
+bitsandbytes
+transformers @ git+https://github.com/huggingface/transformers.git
+peft @ git+https://github.com/huggingface/peft.git
+accelerate @ git+https://github.com/huggingface/accelerate.git
+ml_things @ git+https://github.com/gmihaila/ml_things.git
+trl
+torch
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
