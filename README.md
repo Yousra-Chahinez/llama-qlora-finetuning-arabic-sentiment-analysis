@@ -5,6 +5,8 @@ This repository contains a notebook for fine-tuning the `meta-llama/Llama-3.2-3B
 
 ## References
 
+[Fine-Tuning LLaMA with QLoRA](https://www.youtube.com/watch?v=9wp0Gd9-pfE) 
+
 ### HARD Dataset
 - **Title**: Hotel Arabic-Reviews Dataset Construction for Sentiment Analysis Applications  
   **Authors**: A. Elnagar, Y. S. Khalifa, & A. Einea  
